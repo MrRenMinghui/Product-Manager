@@ -49,5 +49,11 @@
     
     2.表达清楚后台产生的各种判断及相应的前端展示,这将作为接口设计的重要根据。
 ## 3.2 慧营销微客服的业务流程图
+	泳道业务流程图
+![image](https://github.com/MrRenMinghui/Product-Manager/blob/master/Snipaste_2019-05-06_15-42-28.png)</br>
+	
+	无泳道业务流程图
+![image](https://github.com/MrRenMinghui/Product-Manager/blob/master/Snipaste_2019-05-06_15-47-02.png)
 
-    
+# 4.客服核心业务的功能说明（Word版）
+

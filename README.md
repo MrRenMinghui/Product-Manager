@@ -21,4 +21,7 @@
 
 # 主要功能点（脑图）
 	慧营销—微客服：用户状态、即时会话、访客列表、群发消息等主要页面功能。
-	
+![image](https://github.com/MrRenMinghui/Product-Manager/blob/master/Snipaste_2019-05-06_10-17-36.png)
+页面功能脑图
+
+
